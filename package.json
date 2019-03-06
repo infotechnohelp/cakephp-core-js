@@ -1,11 +1,12 @@
 {
   "name": "@infotechnohelp/cakephp-core-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "@infotechnohelp/api-client": "^1.0.0",
-    "@infotechnohelp/cakephp-languages-client": "^1.0.1"
+    "@infotechnohelp/cakephp-languages-client": "^1.0.1",
+    "@infotechnohelp/html-log": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
